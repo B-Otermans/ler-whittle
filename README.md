@@ -57,7 +57,7 @@ geëxtrapoleerde LER hangt af van de aangenomen vorm (+3,3% voor het Gaussische 
 machtswetstaart heeft).
 
 ## N.B.
-Dit project dient niet als bewijs of inkijk in mijn programmeervaardigheden. Dit is een weekendproject
+Dit project dient niet als bewijs van of inkijk in mijn programmeervaardigheden. Dit is een weekendproject
 waarin ik veel heb overgelaten aan 'claude code' en waar ik me vooral heb gericht op het vinden, leren en
 toepassen van (voor mij) nieuwe technieken om een moeilijke puzzel aan te vliegen.
 
