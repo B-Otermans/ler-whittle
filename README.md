@@ -56,6 +56,11 @@ de band blijft gemiddeld binnen 1,3% (gekalibreerde beeldvorming, 20 beelden per
 geëxtrapoleerde LER hangt af van de aangenomen vorm (+3,3% voor het Gaussische spectrum, dat geen
 machtswetstaart heeft).
 
+## N.B.
+Dit project dient niet als bewijs of inkijk in mijn programmeervaardigheden. Dit is een weekendproject
+waarin ik veel heb overgelaten aan 'claude code' en waar ik me vooral heb gericht op het vinden, leren en
+toepassen van (voor mij) nieuwe technieken om een moeilijke puzzel aan te vliegen.
+
 ## Gebruik
 
 ```
@@ -74,8 +79,3 @@ pytest
   gemiddelde opname).
 - De bibliotheek met randprofielen en de randoverdracht gaan uit van een bekend, gekalibreerd
   beeldvormingsmodel.
-
-## N.B.
-Dit project dient niet als bewijs of inkijk in mijn programmeervaardigheden. Dit is een weekendproject
-waarin ik veel heb overgelaten aan 'claude code' en waar ik me vooral heb gericht op het vinden, leren en
-toepassen van (voor mij) nieuwe technieken om een moeilijke puzzel aan te vliegen.
