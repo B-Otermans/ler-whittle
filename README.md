@@ -1,9 +1,10 @@
 # Sub-pixel randruwheid van lijnen uit twee SEM-frames
 
-Testproject om sub-pixel LER (line-edge roughness) van 'resist lines` te bepalen uit SEM beelden.
+Testproject om sub-pixel LER (line-edge roughness) van 'resist lines' te bepalen uit SEM beelden.
 Werkelijke LER wordt geschat door uit twee frames van hetzelfde gebied ruis en ruwheid samen te 
 fitten met een Whittle-likelihood (in het frequentiedomein), en test dat op synthetische SEM-
-beelden waarvan de echte randen exact bekend zijn.
+beelden waarvan de echte randen exact bekend zijn. De volledige pixel-LER extrapoleert het gefitte 
+spectrum boven de vervagingsgrens.
 
 ![pipeline](figures/pipeline.png)
 
@@ -73,3 +74,8 @@ pytest
   gemiddelde opname).
 - De bibliotheek met randprofielen en de randoverdracht gaan uit van een bekend, gekalibreerd
   beeldvormingsmodel.
+
+## N.B.
+Dit project dient niet als bewijs of inkijk in mijn programmeervaardigheden. Dit is een weekendproject
+waarin ik veel heb overgelaten aan 'claude code' en waar ik me vooral heb gericht op het vinden, leren en
+toepassen van (voor mij) nieuwe technieken om een moeilijke puzzel aan te vliegen.
