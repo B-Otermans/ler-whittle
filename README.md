@@ -1,10 +1,9 @@
 # Sub-pixel randruwheid van lijnen uit twee SEM-frames
 
-De randruwheid (line-edge roughness, LER) van resistlijnen is vaak even groot als de ruis van de
-SEM: een groot deel van de gemeten randvariatie is ruis. Dit project schat de werkelijke LER uit
-twee frames van hetzelfde gebied door ruis en ruwheid samen te fitten met een Whittle-likelihood
-(in het frequentiedomein), en test dat op synthetische SEM-beelden waarvan de echte randen exact
-bekend zijn.
+Testproject om sub-pixel LER (line-edge roughness) van 'resist lines` te bepalen uit SEM beelden.
+Werkelijke LER wordt geschat door uit twee frames van hetzelfde gebied ruis en ruwheid samen te 
+fitten met een Whittle-likelihood (in het frequentiedomein), en test dat op synthetische SEM-
+beelden waarvan de echte randen exact bekend zijn.
 
 ![pipeline](figures/pipeline.png)
 
