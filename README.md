@@ -1,4 +1,4 @@
-# Sub-pixel randruwheid van lijnen uit twee SEM-frames
+# Sub-pixel LER met Whittle likelihood
 
 Testproject om sub-pixel LER (line-edge roughness) van 'resist lines' te bepalen uit SEM beelden.
 Werkelijke LER wordt geschat door uit twee frames van hetzelfde gebied ruis en ruwheid samen te 
